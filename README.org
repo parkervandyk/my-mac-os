@@ -1,0 +1,70 @@
+# my-macos
+#+title: List of applications and tools that I use on macOS
+#+author: Parker Van Dyk
+
+* Browsers
+
+- Brave Browser
+- Chromium
+- Firefox Developer Edition
+- Firefox
+- Google Chrome
+- Vivaldi
+
+* Development Tools
+
+- Anypoint Studio (development)
+- Beekeeper Studio (databases)
+- Boop (encode, decode, dev tools)
+- Cyberduck (ftp client)
+- Docker (of course)
+- Emacs
+- Github Desktop
+- iTerm2 (terminal emulator)
+- Neovim
+- pgAdmin 4 (databases)
+- Postman (rest client)
+- SoapUI (all things soapy)
+- Sublime Text
+- Visual Studio Code
+
+
+* Everything Else
+
+- Alfred (replaces spotlight)
+- AltTab (windows like alt + tab)
+- AppCleaner (actually delete applications)
+- CheatSheet (keybinds for all apps)
+- Discord
+- ImageOptim (compression, etc)
+- Latest (getting all apps up to date)
+- MonitorControl (control external monitors)
+- Obsidian (md note taking)
+- OnyX (disk cleanup)
+- Pocket Casts (podcasts)
+- Slack
+- SlowQuitApps
+- Spark (email)
+- Spotify (music)
+- Steam (games)
+- TempBox (temp email)
+- WhatsApp
+- zoom
+- Zwift (fitness)
+
+
+* Status Bar
+
+- Aerial (for appleTV screensavers)
+- Annotate (better screenshots)
+- Amphetamine (keep my mac awake)
+- DatWeatherDoe (weather)
+- Ethernet Status
+- Hidden Bar (like Bartender but FOSS)
+- Hoverly (alt timezones)
+- Itsycal (calendar)
+- MeetingBar (zoom meetings)
+- QuickShade (monitor brightness)
+- Rectangle (window management)
+- Rocket (emojis everywhere)
+- Unsplash Wallpapers
