@@ -47,7 +47,7 @@
 - TempBox (temp email)
 - WhatsApp
 - zoom
-- Zwift (fitness)
+- Wahoo RGT (fitness)
 
 
 * Status Bar
