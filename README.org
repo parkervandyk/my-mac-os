@@ -4,26 +4,24 @@
 
 * Browsers
 
-- Brave Browser
-- Chromium
-- Firefox Developer Edition
-- Firefox
-- Google Chrome
-- Velja
+- Velja (browser picker)
+  - Brave Browser
+  - Firefox
+  - Google Chrome
 
 * Development Tools
 
-- Beekeeper Studio (databases)
-- Boop (encode, decode, dev tools)
-- Docker (of course)
-- Github Desktop
-- Wezterm (terminal emulator)
+- Beekeeper Studio
+- Sequel Ace
+- Docker
+- Wezterm
 - Neovim
 - Studio 3T (mongodb client)
-- HTTPie (rest client)
+- MongoDB Compass
+- Postman
 - SoapUI (all things soapy)
-- Sublime Text (notes)
-- Visual Studio Code
+- Sublime Text
+- Visual Studio Code (currently not using this and focusing on development in neovim)
 
 
 * Everything Else
@@ -33,17 +31,16 @@
 - AppCleaner (actually delete applications)
 - CheatSheet (keybinds for all apps)
 - Discord
-- Figma
+- figma.com
 - IINA
-- ImageOptim (compression, etc
 - Latest (getting all apps up to date)
 - MonitorControl (control external monitors)
 - Notion
 - Pocket Casts (podcasts)
 - Slack
-- Mail
-- Spotify (music)
-- Steam (games)
+- Gmail
+- Spotify
+- Steam
 - TempBox (temp email)
 - WhatsApp
 - zoom
@@ -53,13 +50,8 @@
 * Status Bar
 
 - Aerial (for appleTV screensavers)
-- Annotate (better screenshots)
 - Amphetamine (keep my mac awake)
-- DatWeatherDoe (weather)
-- Ethernet Status
 - Hidden Bar (like Bartender but FOSS)
-- Itsycal (calendar)
 - Next Meeting
-- QuickShade (monitor brightness)
-- Rocket (emojis everywhere)
+- Monitor Control (monitor brightness)
 - Unsplash Wallpapers
