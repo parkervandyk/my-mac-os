@@ -44,7 +44,6 @@
 - TempBox (temp email)
 - WhatsApp
 - zoom
-- Wahoo RGT (fitness)
 
 
 * Status Bar
