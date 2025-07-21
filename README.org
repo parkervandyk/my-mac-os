@@ -53,5 +53,4 @@
 - Amphetamine (keep my mac awake)
 - Hidden Bar (like Bartender but FOSS)
 - Next Meeting
-- Monitor Control (monitor brightness)
 - Unsplash Wallpapers
